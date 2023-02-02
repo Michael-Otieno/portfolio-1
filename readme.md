@@ -1,26 +1,13 @@
-<!-- 
-  Welcome to iTalanta Open Source!
-  This repository will act as your home repo for the iTalanta/Moringa open source intern/externship.
-
-  Please fork and update this portfolio page to fit your profile.
--->
-
-<!-- 
-  -- SECTION: INTRODUCTION
-  -- 
-  -->
 
 <h1 align="center">Hi 👋, I'm Michael Otieno</h1>
-<!-- TODO: Replace with your intro text -->
-<!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
+
 <h3 align="center">A graduate from Moringa, working in open-source!</h3>
 
 <br/>
-<!--
-<p align="left"><a href="https://github.com/Michael-Otieno/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Michael-Otieno" alt="Michael-Otieno" /></a> </p>-->
 
-<!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
+  <!--Github-->
+  <a href="https://github.com/Michael-Otieno/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Michael-Otieno" alt="Michael-Otieno" /></a> 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/michael-oduor-otieno/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="michael otieno's LinkedIn" /></a> 
   <span>&nbsp;</span>
@@ -29,31 +16,22 @@
   <span>&nbsp;</span>
   <!-- Stack overflow -->
   <a href="https://stackoverflow.com/users/16892277/mike" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="mikeotyeno's Stack Overflow" /></a> 
-
-
 </p>
 
 <br/>
 
-
-<!-- 
-  -- SECTION: OVERVIEW
-  -- 
-  -->
-
-<!-- <h1>Overview</h1>
+<h1>Overview</h1>
 
 ### Get to know me
 
-💬 I'm a **software engineer.**
+💬 I'm a **software developer.**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+<!-- 📝 I write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+📄 Know about my experiences [through my CV](about/resume.md)-->
 
-📄 Know about my experiences [through my CV](about/resume.md)
+🌱 I’m currently developing **a course website**.
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
-
-⚡ Fun fact? **Find me on long walks, coffee**
+⚡ Fun fact? **Find me on long walks 🚶‍♂️, helping out my community ❤️**
 
  ### My work
 
@@ -102,7 +80,7 @@
 | 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
 -->
 
-### The technologies I used
+### The technologies I use
 
 <p style="margin-top:10px"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> </p>
 
