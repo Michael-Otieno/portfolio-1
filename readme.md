@@ -52,15 +52,10 @@
 <h1>My experience</h1>
 
 <h2 align="left">Project Elewa group website</h2>
-
 <p align="right"><b>2023</b></p>
-
 <p>
   The Elewa "Conversational Learning Manager" is a Learning Management System (LMS) which allows organisations to design courses based on chat bots (through a visual editor).
 </p> 
-<p>
-   I developed a responsive footer.
-</p>
 <br/>
 
 ### My contributions
