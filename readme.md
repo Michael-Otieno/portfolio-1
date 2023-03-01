@@ -62,13 +62,12 @@
    I developed a responsive footer.
 </p>
 <br/>
-<!-- 
+
 ### My contributions
 | Date     	| Issue 	| Status 	| Link 	|
 |----------	|-------	|--------	|------	|
-| 17/01/23 	| 🏇 Upgrade performance of financial forecasts| Completed | [#22](https://github.com/italanta/kujali/issues/22) |
-| 12/01/23	| 🏇 Upgrade performance of financial forecasts| Closed/Approved | [#22](https://github.com/italanta/kujali/issues/22) |
--->
+| 15/02/23 	| 🏇 created a responsive Website footer | Closed/Approved | [#15](https://github.com/italanta/elewa-group/issues/15) |
+| 01/03/23 	| 🏇 created a responsive stakeholder section | Closed/Approved | [#320](https://github.com/italanta/elewa-group/issues/320) |
 
 
 ### The technologies I use
